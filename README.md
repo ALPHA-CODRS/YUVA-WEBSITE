@@ -69,10 +69,6 @@ We welcome contributions to improve the website! To contribute:
 
 Please make sure your code follows our coding standards and includes appropriate tests.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For any questions or suggestions, feel free to contact us:
