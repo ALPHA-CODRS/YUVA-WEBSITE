@@ -39,11 +39,11 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/college-cultural-club-website.git
+    git clone https://github.com/ALPHA-CODERS/YUVA-WEBSITE.git
     ```
 2. **Navigate to the project directory:**
     ```bash
-    cd college-cultural-club-website
+    cd YUVA-WEBSITE
     ```
 3. **Install dependencies:**
     ```bash
@@ -56,10 +56,6 @@ To set up the project locally, follow these steps:
     ```bash
     npm start
     ```
-
-## Usage
-
-Once the server is running, you can access the website at `http://localhost:3000`. Explore the different sections to see the features in action.
 
 ## Contributing
 
@@ -81,8 +77,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or suggestions, feel free to contact us:
 
-- **Email**: culturalclub@college.edu
-- **GitHub Issues**: [Issues](https://github.com/your-username/college-cultural-club-website/issues)
+- **Email**: babatech009@gmail.com    
+- **GitHub Issues**: [Issues](https://github.com/ALPHA-CODERS/YUVA-WEBSITE/issues)
 
 We look forward to your feedback and contributions!
 
